@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shivachaudhary287.github.io/College-website/sitemap.xml
